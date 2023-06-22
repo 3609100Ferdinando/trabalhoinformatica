@@ -1,0 +1,96 @@
+body {
+    background-image: url(fundo.jpg);
+    color: rgb(87, 0, 51);
+    font-size: larger;
+}
+
+header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+.logo {
+
+}
+
+.titulo{
+
+}
+
+.menu {
+    background-color: antiquewhite;
+    border: solid black;
+    border-width: 20px;
+}
+
+.item-menu{
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 0% 12% 0% 12%;
+}
+
+.item-menu a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.item-menu a:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.item-menu a:visited{
+
+}
+
+main{
+
+}
+
+section{
+    
+}
+
+.titulo-section {
+    margin: 3% 0 3% 0;
+    text-align: center;
+    font-size: x-large;
+}
+
+.conteudos {
+
+}
+
+.item-conteúdo {
+
+}
+
+.titulo-conteúdo {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-size: small;
+}
+
+.imagem-conteúdo {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-size: small;   
+}
+
+.desc-conteúdo {
+
+}
+
+footer {
+
+}
+
+.logo-rodape {
+
+}
+
+.texto-rodape {
+    
+}
